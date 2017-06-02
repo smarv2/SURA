@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author smarv
+ * @author mramirez
  */
 public class EmpleadoFacade {
 
